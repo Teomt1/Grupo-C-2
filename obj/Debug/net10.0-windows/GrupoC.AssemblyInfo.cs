@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrupoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1987577cbdd4f86ec8fdbd3183d45c528f18ecf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aa08c412fc1efa07501dba1667e701b73b5f68f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrupoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrupoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

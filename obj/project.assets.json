@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\CAI\\GrupoC\\GrupoC.csproj",
+      "projectUniqueName": "E:\\C#\\CAI\\GrupoC 2\\GrupoC.csproj",
       "projectName": "GrupoC",
-      "projectPath": "E:\\C#\\CAI\\GrupoC\\GrupoC.csproj",
+      "projectPath": "E:\\C#\\CAI\\GrupoC 2\\GrupoC.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\CAI\\GrupoC\\obj\\",
+      "outputPath": "E:\\C#\\CAI\\GrupoC 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
